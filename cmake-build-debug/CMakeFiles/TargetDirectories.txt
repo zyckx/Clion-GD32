@@ -1,0 +1,3 @@
+/Users/galaxy/Desktop/Clion-GD32/cmake-build-debug/CMakeFiles/CLion_Test.elf.dir
+/Users/galaxy/Desktop/Clion-GD32/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/galaxy/Desktop/Clion-GD32/cmake-build-debug/CMakeFiles/rebuild_cache.dir
